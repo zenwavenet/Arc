@@ -1,0 +1,17 @@
+{
+  "name": "arc-lang",
+  "version": "1.0.0-beta",
+  "description": "Arc Programming Language",
+  "main": "src/cli.js",
+  "bin": {
+    "arc": "bin/arc"
+  },
+  "scripts": {},
+  "keywords": ["arc", "programming-language", "compiler", "transpiler", "native", "spread-operator", "optional-chaining", "nullish-coalescing", "template-strings", "closures", "functional-programming"],
+  "author": "Arc Language Team",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
